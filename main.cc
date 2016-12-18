@@ -4,6 +4,6 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    cout << "caonima VI!" << endl;
+    cout << "fuck off VI!" << endl;
     return 0;
 }
